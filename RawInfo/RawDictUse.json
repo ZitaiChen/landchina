@@ -1,0 +1,358 @@
+[
+{
+  "id": 7498,
+  "group": "308",
+  "value": "051",
+  "name": "批发零售用地",
+  "isParent": false
+},
+{
+  "id": 7499,
+  "group": "308",
+  "value": "052",
+  "name": "住宿餐饮用地",
+  "isParent": false
+},
+{
+  "id": 7500,
+  "group": "308",
+  "value": "053",
+  "name": "商务金融用地",
+  "isParent": false
+},
+{
+  "id": 7501,
+  "group": "308",
+  "value": "054",
+  "name": "其他商服用地",
+  "isParent": false
+}]
+[
+{
+  "id": 7503,
+  "group": "308",
+  "value": "061",
+  "name": "工业用地",
+  "isParent": false
+},
+{
+  "id": 7504,
+  "group": "308",
+  "value": "062",
+  "name": "采矿用地",
+  "isParent": false
+},
+{
+  "id": 7505,
+  "group": "308",
+  "value": "063",
+  "name": "仓储用地",
+  "isParent": false
+}]
+[
+{
+  "id": 7548,
+  "group": "308",
+  "value": "071",
+  "name": "高档住宅用地",
+  "isParent": false
+},
+{
+  "id": 7549,
+  "group": "308",
+  "value": "072",
+  "name": "中低价位、中小套型普通商品住房用地",
+  "isParent": false
+},
+{
+  "id": 7550,
+  "group": "308",
+  "value": "073",
+  "name": "其他普通商品住房用地",
+  "isParent": false
+},
+{
+  "id": 7551,
+  "group": "308",
+  "value": "074",
+  "name": "经济适用住房用地",
+  "isParent": false
+},
+{
+  "id": 7552,
+  "group": "308",
+  "value": "075",
+  "name": "廉租住房用地",
+  "isParent": false
+},
+{
+  "id": 7553,
+  "group": "308",
+  "value": "076",
+  "name": "其他住房用地",
+  "isParent": false
+},
+{
+  "id": 7939,
+  "group": "308",
+  "value": "077",
+  "name": "公共租赁住房用地",
+  "isParent": false
+}]
+[
+{
+  "id": 7508,
+  "group": "308",
+  "value": "081",
+  "name": "机关团体用地",
+  "isParent": false
+},
+{
+  "id": 7509,
+  "group": "308",
+  "value": "082",
+  "name": "新闻出版用地",
+  "isParent": false
+},
+{
+  "id": 7510,
+  "group": "308",
+  "value": "083",
+  "name": "科教用地",
+  "isParent": false
+},
+{
+  "id": 7511,
+  "group": "308",
+  "value": "084",
+  "name": "医卫慈善用地",
+  "isParent": false
+},
+{
+  "id": 7512,
+  "group": "308",
+  "value": "085",
+  "name": "文体娱乐用地",
+  "isParent": false
+},
+{
+  "id": 7513,
+  "group": "308",
+  "value": "086",
+  "name": "公共设施用地",
+  "isParent": false
+},
+{
+  "id": 7514,
+  "group": "308",
+  "value": "087",
+  "name": "公园与绿地",
+  "isParent": false
+},
+{
+  "id": 7515,
+  "group": "308",
+  "value": "088",
+  "name": "风景名胜设施用地",
+  "isParent": false
+}]
+[
+{
+  "id": 7517,
+  "group": "308",
+  "value": "091",
+  "name": "军事设施用地",
+  "isParent": false
+},
+{
+  "id": 7518,
+  "group": "308",
+  "value": "092",
+  "name": "使领馆用地",
+  "isParent": false
+},
+{
+  "id": 7519,
+  "group": "308",
+  "value": "093",
+  "name": "监教场所用地",
+  "isParent": false
+},
+{
+  "id": 7520,
+  "group": "308",
+  "value": "094",
+  "name": "宗教用地",
+  "isParent": false
+},
+{
+  "id": 7521,
+  "group": "308",
+  "value": "095",
+  "name": "殡葬用地",
+  "isParent": false
+}]
+[
+{
+  "id": 7523,
+  "group": "308",
+  "value": "101",
+  "name": "铁路用地",
+  "isParent": false
+},
+{
+  "id": 7524,
+  "group": "308",
+  "value": "102",
+  "name": "公路用地",
+  "isParent": false
+},
+{
+  "id": 7525,
+  "group": "308",
+  "value": "103",
+  "name": "街巷用地",
+  "isParent": false
+},
+{
+  "id": 7526,
+  "group": "308",
+  "value": "104",
+  "name": "农村道路",
+  "isParent": false
+},
+{
+  "id": 7527,
+  "group": "308",
+  "value": "105",
+  "name": "机场用地",
+  "isParent": false
+},
+{
+  "id": 7528,
+  "group": "308",
+  "value": "106",
+  "name": "港口码头用地",
+  "isParent": false
+},
+{
+  "id": 7529,
+  "group": "308",
+  "value": "107",
+  "name": "管道运输用地",
+  "isParent": false
+}]
+[
+{
+  "id": 7531,
+  "group": "308",
+  "value": "111",
+  "name": "河流水面",
+  "isParent": false
+},
+{
+  "id": 7532,
+  "group": "308",
+  "value": "112",
+  "name": "湖泊水面",
+  "isParent": false
+},
+{
+  "id": 7533,
+  "group": "308",
+  "value": "113",
+  "name": "水库水面",
+  "isParent": false
+},
+{
+  "id": 7534,
+  "group": "308",
+  "value": "114",
+  "name": "坑塘水面",
+  "isParent": false
+},
+{
+  "id": 7535,
+  "group": "308",
+  "value": "115",
+  "name": "沿海滩涂",
+  "isParent": false
+},
+{
+  "id": 7536,
+  "group": "308",
+  "value": "116",
+  "name": "内陆滩涂",
+  "isParent": false
+},
+{
+  "id": 7537,
+  "group": "308",
+  "value": "117",
+  "name": "沟渠",
+  "isParent": false
+},
+{
+  "id": 7538,
+  "group": "308",
+  "value": "118",
+  "name": "水工建筑用地",
+  "isParent": false
+},
+{
+  "id": 7539,
+  "group": "308",
+  "value": "119",
+  "name": "冰川及永久积雪",
+  "isParent": false
+}]
+[
+{
+  "id": 7541,
+  "group": "308",
+  "value": "121",
+  "name": "空闲地",
+  "isParent": false
+},
+{
+  "id": 7542,
+  "group": "308",
+  "value": "122",
+  "name": "设施农用地",
+  "isParent": false
+},
+{
+  "id": 7543,
+  "group": "308",
+  "value": "123",
+  "name": "田坎",
+  "isParent": false
+},
+{
+  "id": 7544,
+  "group": "308",
+  "value": "124",
+  "name": "盐碱地",
+  "isParent": false
+},
+{
+  "id": 7545,
+  "group": "308",
+  "value": "125",
+  "name": "沼泽地",
+  "isParent": false
+},
+{
+  "id": 7546,
+  "group": "308",
+  "value": "126",
+  "name": "沙地",
+  "isParent": false
+},
+{
+  "id": 7547,
+  "group": "308",
+  "value": "127",
+  "name": "裸地",
+  "isParent": false
+}]
